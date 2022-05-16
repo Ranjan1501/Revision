@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "status": "false"
+    },
+    {
+      "title": "vue",
+      "id": "oQszGgvy",
+      "status": false
+    },
+    {
+      "title": "Vue",
+      "id": "NHdU9um9",
+      "status": false
+    }
+  ]
+}
